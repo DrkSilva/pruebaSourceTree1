@@ -17,3 +17,5 @@ Commit 2 fastforward
 
 caracteristica 3
 Caracteristica 3.1
+
+para el github
